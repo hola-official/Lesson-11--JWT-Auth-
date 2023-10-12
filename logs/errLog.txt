@@ -1,0 +1,51 @@
+u20231009	16:54:45	77ece20e-0a89-4c2a-a3f9-160434224dd6	Error: Not allowed by CORs
+20231009	16:54:45	5256c508-9e83-45c8-9c02-f96acfc1f647	Error: Not allowed by CORs
+20231009	16:58:54	30900f03-2378-4a32-9d13-e407c81f8a48	Error: Not allowed by CORs
+20231009	16:58:54	8134cf8d-f822-4125-b29d-73e3c9170b90	Error: Not allowed by CORs
+20231009	17:03:18	e6eca2e4-bb9d-42ab-b921-85feab7ccdb8	Error: Not allowed by CORs
+20231009	17:03:18	5f27ee41-6006-4166-9970-0c208c456c82	Error: Not allowed by CORs
+20231009	17:08:31	2cc1d760-df64-46a6-9824-0f015d980a52	Error: Not allowed by CORs
+20231009	17:08:31	0f78e4de-262d-4109-89d5-6b126779916d	Error: Not allowed by CORs
+20231010	09:15:06	410dbf3c-dbf1-4e75-a81f-6f431bba1def	ReferenceError: html is not defined
+20231010	09:15:07	263dbc6c-239d-44b1-a039-4c87f984d7ef	ReferenceError: html is not defined
+20231010	09:15:07	8ac0066f-a38f-49b8-a5a6-01dbfe2534b3	ReferenceError: html is not defined
+20231010	09:15:07	18a9aafd-540d-4bd1-83ce-4d54572b4247	ReferenceError: html is not defined
+20231010	09:15:08	df0e822a-75e7-4ad4-84a9-f0208ba0dd0b	ReferenceError: html is not defined
+20231010	09:15:23	650ab9e3-1f48-46bb-99b9-37f6166d2d82	ReferenceError: html is not defined
+20231010	09:15:23	96f1627d-8602-4bf2-ac1c-a7f328a034ae	ReferenceError: html is not defined
+20231010	09:15:37	042820a7-37db-48e9-9d22-727eee84048b	ReferenceError: html is not defined
+20231010	09:15:37	9fa2d26c-b51d-4fe9-a8d9-9e1d2129ab98	ReferenceError: html is not defined
+20231010	09:15:43	6e83a96e-fc9f-4c8e-92f4-29951b9e2b0c	ReferenceError: html is not defined
+20231010	11:20:20	586a8548-b645-4274-a9a6-d0066ec0bb7b	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\views\subdir\new-page.html'
+20231010	12:47:15	92c33202-6b28-4d65-ad58-cd68c4fa840b	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	12:47:16	2c14b74f-8ec8-4bc1-b1e7-ff5fe49db6e1	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	12:47:42	fc5388ee-1466-4afd-879c-9c4dc05830e6	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\views\subdir\new-page.html'
+20231010	12:59:31	4484f83b-de25-4aca-b961-7e60de32c20b	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\new-page.html'
+20231010	12:59:40	918dacd1-6430-4023-8cab-800ef35782b8	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\new-page.html'
+20231010	13:00:39	16877450-6f71-499b-9737-a58ea4d1dc0a	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	13:00:39	9a21e243-05fa-4df4-a27e-34bf370ae643	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	14:11:34	64699e6b-dee1-4b3e-92e8-d2a741502252	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	14:16:03	3791aa44-04e0-47c4-b7dd-48b2fbb1899f	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	14:16:04	d4593a2b-45bc-46f6-af23-32f83cdf67c4	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	14:16:04	52093340-17ca-460e-9379-8855b5386494	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	14:16:10	5b4bfb12-4c26-4bb0-86b8-7fd1ba416e95	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\views\subdir\new-page.html'
+20231010	14:16:27	0ed370c5-1ba7-4a80-929d-80e3e923a05f	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\views\subdir\new-page.html'
+20231010	14:33:11	19b4e0e5-93f0-4af1-a7df-52304a58975a	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\views\subdir\new-page.html'
+20231010	14:33:15	33a27ab1-9898-4d07-9852-cc79519d77f9	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\views\subdir\new-page.html'
+20231010	14:33:15	4cf0413c-9105-4cae-afcd-9783ec419044	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\views\subdir\new-page.html'
+20231010	14:33:32	66dbe4bc-dc54-4f87-97e0-76401c6f789e	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	14:33:32	6a0d3e8f-b9af-41df-957c-0e70b9a4e591	Error: ENOENT: no such file or directory, stat 'C:\Users\hp\Desktop\My_Web\nodejs\Lesson-08-(Route)\routes\views\index.html'
+20231010	16:26:55	797cbfa2-525c-41e5-b07f-826c04acab24	SyntaxError: Unexpected token } in JSON at position 13
+20231010	16:40:19	3621c323-5c0b-48ab-90e2-0fc91eb70259	SyntaxError: Unexpected token { in JSON at position 94
+20231010	16:40:45	b8389204-a953-4b9a-8c68-62d3435777c5	SyntaxError: Unexpected token { in JSON at position 101
+20231011	09:36:57	e8452521-356f-491f-a7d6-8f8d5067396e	SyntaxError: Unexpected token } in JSON at position 50
+20231011	09:36:58	014a3c1a-dc1d-4c66-9210-943acfee7cc8	SyntaxError: Unexpected token } in JSON at position 50
+20231011	12:22:04	abb25918-f4d3-4756-8c00-56a484894fb3	TypeError: Cannot read properties of undefined (reading 'id')
+20231011	12:22:06	01ce109e-8060-4a69-8b21-76a055c31519	TypeError: Cannot read properties of undefined (reading 'id')
+20231011	12:44:58	e762de68-ab91-4655-98fd-4e40d1821bec	TypeError: Cannot read properties of undefined (reading 'id')
+20231011	12:53:23	c095997b-0e4f-413b-acef-c8e9c9518373	SyntaxError: Unexpected end of JSON input
+20231011	12:53:24	ded4a922-9bf9-4107-a4f3-4bcd9c3dc1e8	SyntaxError: Unexpected end of JSON input
+20231011	14:23:38	eb777f5d-01a3-4ab9-9a8e-30dda0487c8b	ReferenceError: Cannot access 'employee' before initialization
+20231011	14:23:49	5b5a9694-bbda-44dc-b775-23ce1c9719f5	ReferenceError: Cannot access 'employee' before initialization
+20231011	14:24:33	2e2fbee4-195a-4706-a951-18d9b2bc15ff	ReferenceError: Cannot access 'employee' before initialization
+20231011	14:27:35	11ab1088-fa83-4dc8-a494-11e3a3ace1d2	ReferenceError: Cannot access 'employee' before initialization
