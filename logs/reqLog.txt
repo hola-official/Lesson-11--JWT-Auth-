@@ -253,3 +253,7 @@
 20231012	16:10:33	2735ff02-12fc-4eac-af71-2df46f8d81f8	POST	undefined	/aut/
 20231012	16:10:34	51032060-3410-4056-8b29-701bdcb31230	POST	undefined	/aut/
 20231012	16:17:23	bdc0d269-d778-4196-958e-31919294236f	GET	undefined	/register/
+20231013	08:40:08	525fab20-72b1-4815-abb1-d20f09497035	POST	undefined	/employees/3
+20231013	08:40:16	702fffbd-111a-46f0-bc99-b63027950dfa	POST	undefined	/employees/2
+20231013	08:40:24	fda49f06-2602-4ff1-bef9-2c64c7fc04ea	POST	undefined	/employees/2
+20231013	08:40:32	622361fb-4b1d-4c5b-8bd2-1d55b925f2e1	POST	undefined	/employees/2
