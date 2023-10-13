@@ -342,3 +342,7 @@
 20231013	13:11:39	d3d584b1-bb88-4f8f-9777-11f8b72c2c1a	POST	undefined	/auth
 20231013	13:14:08	05e17425-885a-4f94-b6dc-d7430a2c1aa8	POST	undefined	/auth
 20231013	13:14:12	ae3487e6-9a4d-44aa-a697-abfd04c84629	POST	undefined	/auth
+20231013	13:16:15	3f2f5aee-9d5c-4052-963b-0fee7952adad	POST	undefined	/refresh
+20231013	13:17:57	939393d8-c404-41fc-a9ec-e5170322f08e	GET	undefined	/refresh
+20231013	13:18:37	5aead486-5c01-4179-8f75-6c01671c8606	POST	undefined	/auth
+20231013	13:18:50	7cc160c6-b414-490d-a621-239a0172eb6e	GET	undefined	/refresh
