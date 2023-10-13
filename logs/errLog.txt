@@ -49,3 +49,5 @@ u20231009	16:54:45	77ece20e-0a89-4c2a-a3f9-160434224dd6	Error: Not allowed by CO
 20231011	14:23:49	5b5a9694-bbda-44dc-b775-23ce1c9719f5	ReferenceError: Cannot access 'employee' before initialization
 20231011	14:24:33	2e2fbee4-195a-4706-a951-18d9b2bc15ff	ReferenceError: Cannot access 'employee' before initialization
 20231011	14:27:35	11ab1088-fa83-4dc8-a494-11e3a3ace1d2	ReferenceError: Cannot access 'employee' before initialization
+20231013	09:36:05	744be20d-ca4b-4e9c-b4b5-76aa7cfcdd2f	SyntaxError: Unexpected token : in JSON at position 69
+20231013	09:36:26	3284023d-a968-4b68-b680-121e0c208ab1	SyntaxError: Unexpected token : in JSON at position 69
