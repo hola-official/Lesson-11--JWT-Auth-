@@ -346,3 +346,6 @@
 20231013	13:17:57	939393d8-c404-41fc-a9ec-e5170322f08e	GET	undefined	/refresh
 20231013	13:18:37	5aead486-5c01-4179-8f75-6c01671c8606	POST	undefined	/auth
 20231013	13:18:50	7cc160c6-b414-490d-a621-239a0172eb6e	GET	undefined	/refresh
+20231016	09:15:11	16f11493-48d2-420e-b992-c00e36dd67d2	GET	undefined	/refresh
+20231016	09:15:16	ebb5d7be-8428-40dd-90f1-f4c636a5aaf1	PUT	undefined	/refresh
+20231016	09:15:21	2ab6414e-b3c5-4cd4-be46-f6d15c4b9196	POST	undefined	/refresh
